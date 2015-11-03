@@ -1,9 +1,9 @@
 Twitter Listbot
 ==================
 
-This is a simple twitter bot, designed to retweet the contents of a twitter list.
+This is a simple twitter bot.
 
-This implementation tweets for [@StoriesInData](https://twitter.com/StoriesInData).
+This implementation tweets for a quick test.
 
 ## Setup Your Own
 1. [Install node.js & npm](http://nodejs.org/download/) (if you haven't already).
